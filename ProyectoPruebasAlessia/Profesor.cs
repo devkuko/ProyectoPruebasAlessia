@@ -13,7 +13,7 @@ namespace POOIntro
 
 		public override void Presentarse()
 		{
-			Console.WriteLine($"Hola, soy el profesor {Nombre}, enseño {Asignatura}.");
+			Console.WriteLine($"Hola, soy el profesor {this.Nombre}, enseño {this.Asignatura}.");
 		}
 	}
 }

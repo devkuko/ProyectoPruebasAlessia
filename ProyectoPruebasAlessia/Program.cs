@@ -20,6 +20,7 @@
             Console.WriteLine("\n--- Lista de Personas (polimorfismo) ---");
             foreach (var p in personas)
             {
+                Console.WriteLine(p.GetType());
                 p.Presentarse(); // Se llama al método correspondiente según el tipo real
             }
         }

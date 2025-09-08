@@ -1,7 +1,7 @@
 ﻿namespace POOIntro
 {
     // Estudiante hereda de Persona
-    public class Estudiante : Persona
+    public class Estudiante : Persona //herencia con dos puntos
     {
         public string Carrera { get; set; }
 

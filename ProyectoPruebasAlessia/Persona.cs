@@ -17,7 +17,7 @@
         // Método
         public virtual void Presentarse()
         {
-            Console.WriteLine($"Hola, soy {Nombre} y tengo {Edad} años.");
+            Console.WriteLine($"Hola, soy {this.Nombre} y tengo {this.Edad} años.");
         }
     }
 }
