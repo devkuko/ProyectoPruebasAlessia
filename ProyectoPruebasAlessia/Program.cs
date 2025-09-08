@@ -1,4 +1,4 @@
-﻿namespace POOIntro
+﻿namespace ProyectoPersonaHerencia
 {
     class Program
     {

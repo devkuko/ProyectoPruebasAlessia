@@ -1,4 +1,6 @@
-﻿namespace POOIntro
+﻿
+
+namespace ProyectoPersonaHerencia
 {
     // Estudiante hereda de Persona
     public class Estudiante : Persona //herencia con dos puntos

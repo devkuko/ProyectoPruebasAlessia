@@ -1,4 +1,4 @@
-namespace POOIntro
+namespace ProyectoPersonaHerencia
 {
 	// Profesor también hereda de Persona
 	public class Profesor : Persona
@@ -13,7 +13,7 @@ namespace POOIntro
 
 		public override void Presentarse()
 		{
-			Console.WriteLine($"Hola, soy el profesor {this.Nombre}, enseño {this.Asignatura}.");
+			Console.WriteLine($"Hola, soy el profesor {Nombre}, enseño {Asignatura}.");
 		}
 	}
 }
