@@ -2,7 +2,7 @@
 {
     public class Vehiculo
     {
-        public string Marca { get; set; }
+        public string Marca { get; set; } //propiedad
         public void Arrancar() => Console.WriteLine($"{Marca} está arrancando...");
     }
 
