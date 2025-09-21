@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11012.119 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoPersonaHerencia", "ProyectoPruebasAlessia\ProyectoPersonaHerencia.csproj", "{E09A53B5-357F-4335-BB9A-F6A3BC794481}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1", "Clase1\Clase1.csproj", "{3C1CEFBB-2B0B-4A53-8276-26E873B1D345}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooIntro", "PooIntro\PooIntro.csproj", "{BE8C4285-462D-474D-9CBA-742EB5B3AFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefugioAnimal", "RefugioAnimal\RefugioAnimal.csproj", "{DD164A41-0B63-4843-BE74-0BA013511725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{BE8C4285-462D-474D-9CBA-742EB5B3AFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE8C4285-462D-474D-9CBA-742EB5B3AFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE8C4285-462D-474D-9CBA-742EB5B3AFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD164A41-0B63-4843-BE74-0BA013511725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD164A41-0B63-4843-BE74-0BA013511725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD164A41-0B63-4843-BE74-0BA013511725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD164A41-0B63-4843-BE74-0BA013511725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
